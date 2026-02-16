@@ -1,4 +1,4 @@
-# 💬 EchoChat – Modern Chat UI
+#  EchoChat – Modern Chat UI
 
 EchoChat is a modern frontend chat application built using Next.js, Tailwind CSS, and Framer Motion.
 
@@ -6,9 +6,8 @@ This project focuses on UI/UX, browser APIs, and state management to simulate re
 
 ---
 
-## 🚀 Live Demo
-
-(Add your Vercel link here after deployment)
+## 🚀 Live Link:
+https://echochat-kappa.vercel.app/
 
 ---
 
